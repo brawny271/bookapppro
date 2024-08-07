@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FF6C58;}
+	.st2{fill:#D7385E;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#597380;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#314A52;}
+</style>
+<g id="Book">
+	<rect x="11" y="51" class="st0" width="42" height="6"/>
+	<path class="st1" d="M53,40H11V3h42V40z M20,52h-4v12l2-1l2,1V52z"/>
+	<path class="st2" d="M14,0c-3.3,0-6,2.7-6,6v48h4v-5h41V19h-1c0,11-12.5,20-28,20c-6.6,0-12-2.7-12-6V6c0-1.1,0.9-2,2-2h10V0H14z"
+		/>
+	<path class="st3" d="M8,54c0-3.3,2.7-6,6-6h32v4H14c-1.1,0-2,0.9-2,2c0,1.1,0.9,2,2,2h2v4h-2C10.7,60,8,57.3,8,54z M52,44h4v8
+		c0,4.4-3.6,8-8,8H20v-4h28c2.2,0,4-1.8,4-4V44z"/>
+	<path class="st4" d="M48,4v44c2.2,0,4-1.8,4-4V8C52,5.8,50.2,4,48,4z M48,52v8h-4V4H20V0h28c4.4,0,8,3.6,8,8v36
+		C56,48.4,52.4,52,48,52z"/>
+</g>
+</svg>
